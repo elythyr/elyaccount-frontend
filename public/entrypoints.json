@@ -1,0 +1,13 @@
+{
+  "entrypoints": {
+    "main": {
+      "js": [
+        "http://localhost:8080/runtime.js",
+        "http://localhost:8080/main.js"
+      ],
+      "css": [
+        "http://localhost:8080/main.css"
+      ]
+    }
+  }
+}

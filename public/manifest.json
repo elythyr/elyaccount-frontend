@@ -1,0 +1,11 @@
+{
+  "main.css": "http://localhost:8080/main.css",
+  "main.js": "http://localhost:8080/main.js",
+  "runtime.js": "http://localhost:8080/runtime.js",
+  "fonts/fa-solid-900.woff2": "http://localhost:8080/fonts/fa-solid-900.418dad87.woff2",
+  "fonts/fa-solid-900.eot": "http://localhost:8080/fonts/fa-solid-900.46e7cec6.eot",
+  "fonts/fa-solid-900.woff": "http://localhost:8080/fonts/fa-solid-900.a7140145.woff",
+  "fonts/fa-solid-900.ttf": "http://localhost:8080/fonts/fa-solid-900.ff8d9f8a.ttf",
+  "images/fa-solid-900.svg": "http://localhost:8080/images/fa-solid-900.49279363.svg",
+  "index.html": "http://localhost:8080/index.html"
+}
