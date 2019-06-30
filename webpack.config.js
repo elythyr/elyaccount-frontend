@@ -128,6 +128,11 @@ Encore
         // In a future version we will be able to define useBuiltIns option here
         // useBuiltIns: 'usage', // For example
     })
+
+    .configureWatchOptions(function (watchOptions) {
+      watchOptions.aggregateTimeout = 300;
+      watchOptions.poll = 1000;
+    })
 ;
 
 module.exports = Encore.getWebpackConfig();
